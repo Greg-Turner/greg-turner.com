@@ -1,0 +1,35 @@
+/* Blue - #4BF1FF */
+
+
+a:link,a:visited,.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>li>a:focus,a:hover,a:active,.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav>.active>a:focus{
+	color:#4BF1FF;
+}
+
+.spacer,.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,#grid .mix .overlay {
+color: #302121;
+background: #4BF1FF;
+border: 1px #302121;
+}
+
+#page-contact{
+	background: #4BF1FF;
+	color:#fff;
+}
+
+#page-contact .spacer{
+	background: #fff;
+}
+
+#page-contact .section-title{
+	color:#fff;
+}
+
+.btn.btn-default:hover,
+.btn.btn-default:active{
+    color:#4BF1FF;
+}
+
+
